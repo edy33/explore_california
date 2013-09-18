@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"ha",
+				"Set Syntax: Hacker News"
+			],
+			[
+				"hac",
+				"Set Syntax: Hacker News"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"dum",
+				"Dummy Image: Insert Image"
+			],
+			[
+				"spe",
+				"Speech: Show Reference"
+			],
+			[
+				"ran",
+				"Random Message: Insert Random Message"
+			],
+			[
+				"ra",
+				"Random Message: Insert Random Message"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"in",
+				"Indent JSON"
+			],
+			[
+				"xml",
+				"xml2json: xml to json"
+			],
+			[
+				"jso",
+				"json2xml: json to xml"
+			],
+			[
+				"j",
+				"json2xml: json to xml"
+			],
+			[
+				"web ",
+				"Web encoder: Url encode selection"
+			],
+			[
+				"web",
+				"Web encoder: Url encode selection"
+			],
+			[
+				"htt",
+				"HttpStatusCode: Http Status Code"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 257.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Edward/Documents/IntelligentSysPhpWeb/client_inc/sftp-config.json",
+		"/C/Users/Edward/Documents/IntelligentSysPhpWeb/client_www/sftp-config.json",
+		"/C/wamp/www/site2/basic.html",
+		"/C/Users/Edward/eclipsePhp/client_inc/easyLogistics/map/task_functions.php",
+		"/C/Users/Edward/eclipsePhp/client_inc/easyDeliver/tasks.php",
+		"/C/Users/Edward/eclipsePhp/client_www/sftp-config.json",
+		"/C/Users/Edward/eclipsePhp/client_inc/sftp-config.json",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/C/wamp/www/site/helloworld.php",
+		"/C/Users/Edward/eclipsePhp/client_www/client_www.sublime-project",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/Speech/reference.txt",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/Dummy Image Generator/DummyImage.sublime-settings",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/Speech/Speech.sublime-settings",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/Speech/Default (Windows).sublime-keymap",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/CVS/CVS.sublime-settings",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/C/wamp/www/site2/test_pr.sublime-project",
+		"/C/Users/Edward/eclipsePhp/client_inc/profiler.php",
+		"/C/Users/Edward/Documents/first.TODO",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/Edward/Recent/first.TODO.lnk",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp/www/site2/test",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/wamp/www/site/basic.html",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/Google Translate/GoogleTranslate.sublime-settings",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/messages/first.TODO",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/User/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Edward\\Documents\\IntelligentSysPhpWeb\\client_www\\javascript",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"GetTarget",
+			"_AddRoute",
+			"oNewRouteList",
+			"AddTarget",
+			"_BuildTaskRoute",
+			"_AttachRouteToAnEnd",
+			"AddRoutesToBack",
+			"_SetCurrentPage",
+			"Refresh",
+			"DoAfterPageDataIsReceived",
+			"routeList",
+			"routing_new",
+			"Searching",
+			"conf",
+			"_AddTarget",
+			"_FillTargetBlockValues",
+			"_GenerateTargetRowHTML",
+			"			self._aTargetRows.push(self._GenerateTargetRowHTML(oTarget));\n_GenerateTargetRowHTML",
+			"_AddTarget",
+			"_OnAddTarget",
+			"onTargetAd",
+			"iNextNewRouteLabelNumber",
+			"AddToRoute",
+			"_FillTargetBlockValues",
+			"'?'",
+			"?",
+			"function GetTask(",
+			"new GetTask(",
+			"function GetTask(",
+			"GetTask(",
+			"GetTask",
+			"$POST",
+			"$GET",
+			"GET",
+			"POST",
+			"task"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CVS Status":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 429.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}
